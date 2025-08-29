@@ -57,8 +57,6 @@ The defect inspection pipeline follows these steps:
 ![Training Accuracy](results/accuracy.png)  
 *Training vs validation accuracy*  
 
-![Confusion Matrix](results/confusion_matrix.png)  
-*Model evaluation on the test dataset*  
 
 ---
 
